@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "mouhssine",
+    "password": "@bigemsi.1053",
+    "database": "gdc",
+    "host": "emsi123.mysql.database.azure.com",
+    "port":3306,
+    "dialect": "mysql"
+    },
+  "test": {
+    "username": "mouhssine",
+    "password": "@bigemsi.1053",
+    "database": "gdc",
+    "host": "emsi123.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "mouhssine",
+    "password": "@bigemsi.1053",
+    "database": "gdc",
+    "host": "emsi123.mysql.database.azure.com",
+    "dialect": "mysql"
+  }
+}
